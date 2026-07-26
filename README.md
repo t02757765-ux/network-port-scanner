@@ -16,3 +16,5 @@ NetScan, harici bağımlılıklara (nmap vb.) ihtiyaç duymadan, doğrudan soket
    ```bash
    git clone [https://github.com/KULLANICI_ADI/network-port-scanner.git](https://github.com/KULLANICI_ADI/network-port-scanner.git)
    cd network-port-scanner
+## Lisans
+Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
